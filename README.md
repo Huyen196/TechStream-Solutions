@@ -5,7 +5,7 @@ TechStream Solutions has been operating for several years and has gathered signi
 
 By performing these calculations, TechStream Solutions aims to:
 
-Identify the profitability of acquiring and retaining customers.
-Assess the efficiency of their marketing and sales strategies.
-Make informed decisions on scaling their operations and optimizing their resource allocation.
-This information will guide TechStream Solutions in refining their business strategies, ensuring sustainable growth, and maximizing profitability.
+- Identify the profitability of acquiring and retaining customers.
+- Assess the efficiency of their marketing and sales strategies.
+- Make informed decisions on scaling their operations and optimizing their resource allocation.
+- This information will guide TechStream Solutions in refining their business strategies, ensuring sustainable growth, and maximizing profitability.
