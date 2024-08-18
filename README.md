@@ -63,3 +63,9 @@ All raw data were collected and formatted by excel. There are 5 datasets as belo
 |  2 | 2023-01-01 00:00:00 |          1277 |              231 |              0 |
 |  3 | 2023-01-01 00:00:00 |          2094 |              107 |              0 |
 |  4 | 2023-01-01 00:00:00 |          1314 |              416 |              0 |
+
+## Caculation
+
+1. Customer Acquisition cost (CAC)
+
+
